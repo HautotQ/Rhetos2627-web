@@ -2,21 +2,21 @@
   {
     "name": "Photo de test 1",
     "id": 1,
-    "path": "/pictures/gallery/test1.jpg"
+    "path": "/Rhetos2627-web/pictures/gallery/test1.jpg"
   },
   {
     "name": "Photo de test 2",
     "id": 2,
-    "path": "/pictures/gallery/test2.jpg"
+    "path": "/Rhetos2627-web/pictures/gallery/test2.jpg"
   },
   {
     "name": "Photo de test 3",
     "id": 3,
-    "path": "/pictures/gallery/test3.jpg"
+    "path": "/Rhetos2627-web/pictures/gallery/test3.jpg"
   },
   {
     "name": "Photo de test 4",
     "id": 4,
-    "path": "/pictures/gallery/test4.jpg"
+    "path": "/Rhetos2627-web/pictures/gallery/test4.jpg"
   }
 ]
