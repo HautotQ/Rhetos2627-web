@@ -1,0 +1,18 @@
+[
+  {
+    "title": "Bienvenue sur le site des rhétos 2026-2027",
+    "id": 1,
+    "date": "11-09-2026",
+    "author": "Quentin",
+    "short": "Le site des Rhétos 2026-2027 est maintenant en ligne !",
+    "long": "Ceci est une plus longue description"
+  },
+  {
+    "title": "Élections du comité rhéto",
+    "id": 2,
+    "date": "14-09-2026",
+    "author": "Quentin",
+    "short": "Ce lundi 14 septembre, nos rhétos ont voté pour élire leur comité rhéto.",
+    "long": "Ceci est une plus longue description pour les élections"
+  }
+]

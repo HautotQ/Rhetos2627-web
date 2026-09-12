@@ -1,0 +1,41 @@
+/*
+@font-face {
+    font-family: "NType82";
+    src: url("font/NType82-Regular.otf") format("opentype");
+}
+
+html {
+    min-height: 100%;
+    background: linear-gradient(
+            135deg,
+            #007EA7,
+            #F2E6C9
+    );
+}
+
+body {
+    min-height: 100vh;
+    margin: 0;
+    padding: 0;
+
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+
+    font-family: "NType82", sans-serif;
+    text-align: center;
+}
+ */
+
+.image {
+    display: block;
+    width: 90%;
+    max-width: 700px;
+    height: auto;
+    margin: 30px auto;
+}
+
+#app > a {
+    width: 50%;
+    margin: 20px auto;
+}

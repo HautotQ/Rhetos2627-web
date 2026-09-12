@@ -1,0 +1,12 @@
+[
+  {
+    "id": 1,
+    "name": "Nom de l'évènement",
+    "short": "Courte description de l'évènement",
+    "date": "11-09-26",
+    "long": "Longue description de l'évènement",
+    "medias": [
+      "pictures/heronissos.jpg"
+    ]
+  }
+]

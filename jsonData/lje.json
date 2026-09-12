@@ -1,0 +1,15 @@
+[
+  {
+    "id": 1,
+    "name": "Apy",
+    "description": "Nous fabriquons des bières à partir d'invendus de fruits",
+    "authors": [
+      "Ilïas RIGOLET",
+      "Jéremy BURVENICH"
+    ],
+    "long": "Beaucoup de fruits ne sont malheureusement pas vendables, car ils sont abîmés. Résultat: des centaines de fruits sont jetés. Notre mission est de diminuer ce gaspillage en réutilisant les fruits pour en faire des bières fruitées et sans alcool.",
+    "file": "../pictures/apy_img_shop.png",
+    "url": "https://apy-beer.be/",
+    "contact": "hello@apy-beer.be"
+  }
+]

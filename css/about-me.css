@@ -1,0 +1,36 @@
+@font-face {
+    font-family: "NType82";
+    src: url("../font/NType82-Regular.otf") format("opentype");
+}
+
+p {
+    font-size: 2rem;
+    white-space: pre-line;
+    background: transparent;
+    line-height: 5rem;
+}
+
+html {
+    min-height: 100%;
+    background: linear-gradient(
+            135deg,
+            #007EA7,
+            #F2E6C9
+    );
+}
+
+body {
+    min-height: 100vh;
+    margin: 0;
+    padding: 0;
+
+    display: flex;
+    flex-direction: column;
+
+    font-family: "NType82", sans-serif;
+    text-align: center;
+}
+
+.title {
+    font-size: 4rem;
+}
