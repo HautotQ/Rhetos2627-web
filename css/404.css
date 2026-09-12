@@ -26,12 +26,11 @@ body {
     text-align: center;
 }
  */
-
-img {
+.image {
     display: block;
+    width: auto;
     max-width: 90%;
     max-height: 400px;
-    width: auto;
     height: auto;
     margin: 30px auto;
 }
